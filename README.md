@@ -1,0 +1,2 @@
+# arctan
+VHDL arctan function
