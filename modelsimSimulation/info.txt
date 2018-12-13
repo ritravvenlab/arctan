@@ -1,0 +1,4 @@
+include
+
+- full scripting with the structure that I taught in HDL.  I have it if you need it.
+- input and output files

@@ -1,0 +1,8 @@
+include
+
+- block diagram
+- sample inputs and outputs as well as clocking info and qformat info
+- total size in gates
+- latency
+- throughput
+- initial document that you got your algorithm from

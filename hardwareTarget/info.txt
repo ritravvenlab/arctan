@@ -1,0 +1,8 @@
+include
+
+- ip block targeting snickerdoodle
+- scripted snickerdoodle project [I have this by the way if you need it]
+
+I RECOMMEND STARTING WITH A BLINK FIRST VIA SCRIPTING AND THEN DOING THE ATAN
+
+- test code

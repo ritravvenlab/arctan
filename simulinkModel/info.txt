@@ -1,0 +1,4 @@
+include
+
+- a nice and neat simulink model like the one that we did tonight.. but cleaned up a bit.
+- all hooks and scirpts that are used to generate the files that go into the modelsim simulation
